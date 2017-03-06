@@ -25,3 +25,4 @@
 - In Github navigate to /docs/img folder
 - Select "Upload" and upload the header.jpg
 - Commit your changes with a commit message
+
